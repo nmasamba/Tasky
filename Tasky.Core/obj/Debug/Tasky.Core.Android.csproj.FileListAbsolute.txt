@@ -1,0 +1,14 @@
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.pdb
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.apk
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid-Signed.apk
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.pdb
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\obj\Debug\android\bin\Tasky.Core.Anroid.apk
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\obj\Debug\R.cs.flag
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\obj\Debug\uploadflags.txt
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Android.csprojResolveAssemblyReference.cache
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\obj\Debug\Tasky.Core.Anroid.dll.mdb
+C:\Users\NPM\Downloads\Tasky\Android_Starter\Tasky.Core\bin\Debug\Tasky.Core.Anroid.dll.mdb
